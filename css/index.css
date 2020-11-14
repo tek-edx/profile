@@ -131,6 +131,7 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
+  display:none;
   
 }
 
@@ -261,7 +262,7 @@ ul > li:hover {
 
 @media (min-width: 850px) {
   .main-container {
-    max-width: 70vw;
+    max-width: 72vw;
     min-width: 805px;
     height: auto;
 
